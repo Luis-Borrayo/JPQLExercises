@@ -31,6 +31,7 @@ public class Activity11_RangosPrecioBetweenLibros {
         } finally {
             entityManager.close();
             entityManagerFactory.close();
+
         }
     }
 }

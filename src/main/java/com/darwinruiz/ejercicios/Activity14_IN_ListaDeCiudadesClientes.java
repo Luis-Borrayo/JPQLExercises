@@ -31,6 +31,7 @@ public class Activity14_IN_ListaDeCiudadesClientes {
         } finally {
             entityManager.close();
             entityManagerFactory.close();
+
         }
     }
 }

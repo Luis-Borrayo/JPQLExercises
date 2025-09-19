@@ -28,6 +28,7 @@ public class Activity15_CoalesceDescripcionLibro {
         } finally {
             entityManager.close();
             entityManagerFactory.close();
+
         }
     }
 }

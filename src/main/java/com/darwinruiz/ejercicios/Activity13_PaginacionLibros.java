@@ -38,6 +38,7 @@ public class Activity13_PaginacionLibros {
         } finally {
             entityManager.close();
             entityManagerFactory.close();
+
         }
     }
 }

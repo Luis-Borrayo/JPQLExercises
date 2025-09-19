@@ -33,6 +33,7 @@ public class Activity12_RangoFechasPublicacionLibros {
         } finally {
             entityManager.close();
             entityManagerFactory.close();
+
         }
     }
 }
